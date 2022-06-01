@@ -15,9 +15,10 @@
 
 
 ## O projeto:
-Desenvolver um sistema de gerenciamento de mídias como: imagens, documentos, Arquivos PDF, Word e etc. Essas mídias podem ser anexadas a um determinado imóvel. Por exemplo: um imóvel pode ter um comprovante de locação, uma escritura ou uma foto da planta da casa. *Dica:* Você pode utilizar o gerenciamento de mídia do wordpress como inspiração.
+Desenvolver um sistema de gerenciamento de mídias como: imagens, documentos, Arquivos PDF, Word e etc. Essas mídias podem ser anexadas a um determinado imóvel. Por exemplo: um imóvel pode ter um comprovante de locação, uma escritura ou uma foto da planta da casa. 
+*Dica: Você pode utilizar o gerenciamento de mídia do wordpress como inspiração.*
 
-*Gerenciamento de Mídias*
+###*Gerenciamento de Mídias*
 Abaixo os requisitos da funcionalidade:
 
 - Deve ter a listagem com busca por nome do arquivo, upload de arquivos, edição do nome, um select para anexar o arquivo a um imóvel e por fim a exclusão do arquivo.
@@ -25,7 +26,7 @@ Abaixo os requisitos da funcionalidade:
 - Campos obrigatórios: Nome e E-mail.
 - Um arquivo de mídia pode estar ligado a um imóvel
 
-*Imóveis*
+###*Imóveis*
 Abaixo os requisitos da funcionalidade:
 
 - Deve ter a listagem com busca, cadastro, edição e exclusão do imóvel.
