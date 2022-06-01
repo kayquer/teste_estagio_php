@@ -1,7 +1,7 @@
 # Teste de seleção para estágio PHP Imobibrasil
 
 ## Regras:
-- Você tem sete dias corridos a partir do recebimento deste teste. Após o término do prazo, envie o código mesmo que incompleto.
+- Você tem sete dias corridos a partir do recebimento deste teste. Após o término do prazo, pode enviar o código mesmo que incompleto.
 - O sistema deve ser feito na linguagem PHP e com o banco de dados MySQL. 
 - Recomendamos para o sistema de arquivos e aplicativos do servidor utilizar o stack LAMP, mas você é livre para utilizar qualquer stack com server ou serverless.
 - Para este desafio você deve utilizar PHP sem frameworks como: Laravel, Cake ou CodeIgnite.
