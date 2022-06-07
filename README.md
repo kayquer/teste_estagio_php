@@ -1,4 +1,4 @@
-# Teste de seleção PHP Imobibrasil
+# Teste de seleção Estágio PHP Imobibrasil
 
 ## Regras:
 - Você tem sete dias corridos a partir do recebimento deste teste. Após o término do prazo, pode enviar o código mesmo que incompleto.
