@@ -15,7 +15,7 @@
 
 
 ## O projeto:
-Desenvolver um sistema de gerenciamento de mídias como: imagens, documentos, Arquivos PDF, Word e etc. Essas mídias podem ser anexadas a um determinado imóvel. Por exemplo: um imóvel pode ter um comprovante de locação, uma escritura ou uma foto da planta da casa. 
+Você foi encarregado de desenvolver um sistema de gerenciamento de mídias dos imóveis dos clientes ImobiBrasil. Essas mídias podem ser imagens, documentos, Arquivos PDF, Word e etc. As mídias podem ou não ser anexadas a um determinado imóvel. Por exemplo: um imóvel pode ter um comprovante de locação, uma escritura ou uma foto da planta da casa. 
 *Dica: Você pode utilizar o gerenciamento de mídia do wordpress como inspiração.*
 
 ### Gerenciamento de Mídias
